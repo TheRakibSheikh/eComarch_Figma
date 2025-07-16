@@ -989,7 +989,7 @@ width: 100vw;
     width: 70%;
 }
 }
-
+/* ============================================= */
 @media (max-width: 477px) {
   #header {
 	padding: 10px 30px;
@@ -1018,6 +1018,11 @@ h2{
 
 #feature {
 	justify-content: space-between;
+}
+
+#feature .fe-box img {
+	width: 80%;
+	margin-bottom: 10px;
 }
 
 p {
