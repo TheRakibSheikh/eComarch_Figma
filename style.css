@@ -1020,11 +1020,10 @@ h2{
 	justify-content: space-between;
 }
 
-#feature .fe-box img {
-	width: 80%;
-	margin-bottom: 10px;
+#feature {
+  display: flex;
+	justify-content: space-between;
 }
-
 p {
 	font-size: 12px;
   margin: 8px 0 20px 0;
