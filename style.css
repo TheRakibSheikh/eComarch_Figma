@@ -1172,7 +1172,7 @@ align-items: flex-start;
 }
 }
 
-@media (max-width: 349) {
+@media (max-width: 349px) {
 #feature .fe-box {
 	width: 145px;
 }
